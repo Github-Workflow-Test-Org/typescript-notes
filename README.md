@@ -10,7 +10,7 @@ Apuntes de TypeScript en español.
 
 # **Tabla de contenido:**
 
-## **Advanced Types (Tipos avanzados)**
+## **Advanced Types (Tipos avanzados)**s
 
 - [Intersection Types / Intersección de tipos](/AdvancedTypes/01.IntersectionTypes.md)
 - [Type Guards / Tipos de protección](/AdvancedTypes/02.TypeGuards.md)
